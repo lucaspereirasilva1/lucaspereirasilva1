@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas Pereira
 
-- 🔭 Hoje trabalho com Golang
+- 🔭 Atualmente trbalhando com Golang
 - 🌱 Estudando Golang
 - 😄 Pronouns: ele/dele
 
